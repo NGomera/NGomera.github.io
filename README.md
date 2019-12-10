@@ -1,2 +1,2 @@
-# ngomera.github.io
+# NGomera.github.io
 This is my static web site
